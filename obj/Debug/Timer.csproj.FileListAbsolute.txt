@@ -1,0 +1,9 @@
+E:\isd\Timer\Timer\bin\Debug\Timer.exe.config
+E:\isd\Timer\Timer\bin\Debug\Timer.exe
+E:\isd\Timer\Timer\bin\Debug\Timer.pdb
+E:\isd\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+E:\isd\Timer\Timer\obj\Debug\Timer.Form1.resources
+E:\isd\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+E:\isd\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+E:\isd\Timer\Timer\obj\Debug\Timer.exe
+E:\isd\Timer\Timer\obj\Debug\Timer.pdb
